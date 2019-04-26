@@ -1,7 +1,7 @@
-# Animal Crossing: New Leaf - Welcome Luxury
-
-Animal Crossing New Leaf: Welcome Luxury is a ROM-Hack based on the Welcome Amiibo Release.
-This mod contains several texture edits so far which should make the game look more modern and noble.
+## Animal Crossing: New Leaf - Welcome Luxury
+> Animal Crossing New Leaf: Welcome Luxury is a ROM-Hack based on the Welcome Amiibo Release.
+>
+> This mod contains several texture edits so far which should make the game look more modern and noble.
 ----
 ## Easy usage (Game Patching)
 - Create `/luma/titles/TID/romfs`
