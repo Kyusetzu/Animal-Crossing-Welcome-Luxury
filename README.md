@@ -23,8 +23,3 @@
 ### Citra
 - Install the cia in Citra.
 - Launch and Enjoy.
-----
-## Troubleshooting / Q&A
-Question | Anwser
---- | ---
-My game crashes when I launch it. | You should check if you have the EU Update for Welcome Amiibo. If you do, you can create a issue.
