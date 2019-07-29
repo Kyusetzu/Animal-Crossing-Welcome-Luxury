@@ -23,10 +23,13 @@
 [22|10PM](https://youtu.be/YmrFaMvgA6I)<br>
 [23|11PM](https://youtu.be/6Bc4Q1Jjxm4)<br>
 [Café](https://youtu.be/1hAwyif2pIY)<br>
-[Club LOL](https://youtu.be/vJdh5cwLqac)<br>
+[Club](https://youtu.be/vJdh5cwLqac)<br>
 [Dreamhouse](https://youtu.be/jjprMvLQ4bM)<br>
+[Fortune Teller](https://youtu.be/48xDYSbxAYQ)<br>
 [Nook Shops](https://youtu.be/eeeHnr5aykk)<br>
+[Retail](https://youtu.be/RzxWRobX2jg?t=956)<br>
+[Shoe Shop](https://youtu.be/Ej_onDLqCPA)<br>
+[Symboltree/Credits](https://youtu.be/Yov8jrj-hC8)<br>
+[Tailor](https://youtu.be/FFS-MHJ92xQ)<br>
 [Title](https://youtu.be/vkd9RCbdCag)<br>
 [Townhall](https://youtu.be/xJHVfLI5pLY)<br>
-[Able Sisters](https://youtu.be/FFS-MHJ92xQ)<br>
-[Symboltree/Credits](https://youtu.be/Yov8jrj-hC8)<br>
