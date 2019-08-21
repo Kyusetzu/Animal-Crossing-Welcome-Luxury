@@ -34,3 +34,4 @@
 [Title](https://youtu.be/vkd9RCbdCag)<br>
 [Island](https://youtu.be/xJHVfLI5pLY)<br>
 [Townhall](https://youtu.be/bxswzhe5xWY?t=294)<br>
+[Playerselect](https://www.youtube.com/watch?v=_eJ7AmK46Oc)<br>
