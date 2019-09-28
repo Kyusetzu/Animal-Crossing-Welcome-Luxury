@@ -12,6 +12,8 @@
 - Resetti is disabled
 - Reworked Textures (Interior, Exterior, Items...)
 - Stores are now 24/7 open
+
+[Detailed Changelog to be seen here.](CHANGELOG.md)
 ## Installation
 - Create `/luma/titles/TID/romfs`.
 - Put everything from the `ExtractedRomFS` into there.
