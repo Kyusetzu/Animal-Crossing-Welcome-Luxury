@@ -2,7 +2,10 @@
 > Because all of you wanted a detailed changelog.
 
 ## Pre-v0.0.5
-- Changed Exterior & PWP's
+- Changed PWP's
+<details class="spoiler">
+<summary>[CLICK ME] - Had to put in a Spoiler here, because the list is really long.</summary>
+
 	- Campsite 
 	- Camping Cot
 	- Outdoor Chair
@@ -104,6 +107,9 @@
 	- Scarecrow
 	- Bus Stop
 	- Lighthouse
+</details>
+
+- Changed Exterior
 	- Basic Train Station Ex
 	- Modern Train Station Ex
 	- Fairy Tale Train Station Ex
