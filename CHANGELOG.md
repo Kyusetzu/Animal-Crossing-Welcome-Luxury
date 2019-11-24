@@ -1,9 +1,128 @@
 # Changelog
 > Because all of you wanted a detailed changelog.
 
+## Pre-v0.0.5
+- Changed Exterior & PWP's
+	- Campsite 
+	- Camping Cot
+	- Outdoor Chair
+	- Hammock
+
+	- Balloon Arch
+	- Wisteria Trellis
+	- Flower Arch
+	- Illuminated Arch
+	- Archway Sculpture
+
+	- Cobblestone Bridge
+	- Modern Bridge
+	- Suspension Bridge
+	- Wooden Bridge
+	- Brick Bridge
+	- Fairy-Tale Bridge
+
+	- Solar Panels
+	- Wind Turbine
+	- Drilling Rig
+
+	- Circle Topiary
+	- Square Topiary
+	- Tulip Topiary
+
+	- Bell
+	- Zen Bell
+
+	- Street Lamp
+	- Modern Streetlight
+	- Zen Streetlight
+	- Streetlight
+	- Fairy-Tale Streetlight
+	- Round Streetlight
+	- Torch
+
+	- Moai Statue
+	- Stonehenge
+	- Pyramid
+	- Tower
+	- Sphinx
+
+	- Yellow Bench
+	- Fairy-Tale Bench
+	- Blue Bench
+	- Zen Bench
+	- Wood Bench
+	- Modern Bench
+	- Metal Bench
+	- Log Bench
+
+	- Picnic Blanket
+	- Pile of Pipes
+	- Tire Toy
+	- Chair Sculpture
+
+	- Traffic Signal
+	- Yield Sign
+	- Do-Not-Enter Sign
+	- Caution Sign
+
+	- Parkclock
+	- Modern Clock
+	- Zen Clock
+	- Flower Clock
+	- Fairy-Tale Clock
+	- Illuminated Clock
+
+	- Geyser
+	- Water well
+	- Water Pump
+	- Fountain
+	- Drinking Fountain
+	- Hot Spring
+	- Statue Fountain
+
+	- Custom-Design Sign
+	- Face-Cutout Standee
+	- Fence
+	- Fire Hydrant
+	- Flower Bed
+	- Sandbox
+	- Instrument Shelter
+	- Garbage Can
+	- Illuminated Tree
+	- Cube Sculpture
+	- Jungle Gym
+	- Illuminated Heart
+	- Video Screen
+	- Stadium Light
+	- Stone Tablet
+	- Fire Pit
+	- Rack of Rice
+	- Parabolic Antenna
+	- Totem Pole
+	- Zen Garden
+	- Windmill
+	- Scarecrow
+	- Bus Stop
+	- Lighthouse
+	- Basic Train Station Ex
+	- Modern Train Station Ex
+	- Fairy Tale Train Station Ex
+	- Eastern Train Station Ex
+- Created new default buttom background
+- Fixed
+	- Issue where you can't enter TIY
+	- Alpha issues from the roof of TIY
+- New
+	- Fish bite on first try
+	- Fish do not vanish when running
+	- Camera zoomed slightly out
+	- Mayor Permit 100% instantly
+	- Cyrus costumisations are done instantly
+	- Flowers (except black roses) never wilt
+	
 ## Pre-v0.0.4
 
-- Changed Exteriors
+- Changed Exterior
     - Created Base Townhall Ex
     - Created Igloo Ex
     - Created ReTail Ex
@@ -23,7 +142,7 @@
 ## Pre-v0.0.3
 
 - Added '© 2019 Kyusetzu' to the Titlescreen
-- Changed Exteriors
+- Changed Exterior
     - Created Townhall Ex
     - Changed **Literally Everything - Overhaul**
 - Changed Interior
@@ -36,7 +155,7 @@
 
 ## Pre-v0.0.2
 
-- Changed Exteriors
+- Changed Exterior
     - Created Accessory Shop Ex
     - Created Barber Ex
     - Created Dreamhouse Ex
