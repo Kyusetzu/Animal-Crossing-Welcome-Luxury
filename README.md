@@ -4,7 +4,6 @@
 > This mod contains several texture edits so far which should make the game look more modern and noble.
 
 ## Changes
-- Camera is slightly zoomed out for a better view
 - Cyrus' costumisations are instantly done
 - Fish bite first try
 - Fish don't vanish when you run up to them
@@ -18,7 +17,8 @@
 - QR Maschine is unlocked
 - Resetti is disabled
 - Reworked Textures (Interior, Exterior, Items...)
-- Stores are now 24/7 open
+- Stores are now 24/7 open<br>
+- *~~Camera is slightly zoomed out for a better view~~* Will be re-implemented(?)
 
 [Detailed Changelog to be seen here.](CHANGELOG.md)
 

@@ -1,7 +1,16 @@
 # Changelog
 > Because all of you wanted a detailed changelog.
+## Pre-v0.0.596 - Snow Fix
+- Added
+	- Captions to the releases in the changelog file :)
+- Changed
+	- All the songs to be equally loud
+- Fixed
+	- Snowing Song
+- Removed
+	- Camera Zoom
 
-## Pre-v0.0.5
+## Pre-v0.0.5 - PWP Changes
 - Changed PWP's
 <details class="spoiler">
 <summary>[CLICK ME] - Had to put in a Spoiler here, because the list is really long.</summary>
@@ -126,7 +135,7 @@
 	- Cyrus costumisations are done instantly
 	- Flowers (except black roses) never wilt
 	
-## Pre-v0.0.4
+## Pre-v0.0.4 - Details
 
 - Changed Exterior
     - Created Base Townhall Ex
@@ -145,7 +154,7 @@
 - Created New TID
 - Created Songs ([Credits](ExtractedRomFs/Sound/stream/Credit.md))
 
-## Pre-v0.0.3
+## Pre-v0.0.3 - The Overhaul
 
 - Added '© 2019 Kyusetzu' to the Titlescreen
 - Changed Exterior
@@ -159,7 +168,7 @@
 - Created Custom Item Icons
 - Created Custom Train Dialogue
 
-## Pre-v0.0.2
+## Pre-v0.0.2 - Exterior Design
 
 - Changed Exterior
     - Created Accessory Shop Ex
@@ -202,7 +211,7 @@
     - Unbreakable Flowers   
 
 
-## Pre-v0.0.1
+## Pre-v0.0.1 - Basics and Interior Design
 
 - Changed Birds to white
 - Created "Red Carpet Start"
