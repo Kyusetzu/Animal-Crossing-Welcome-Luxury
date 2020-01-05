@@ -23,6 +23,6 @@
 ## Thank you!
 - **Slattz#0674** for helping out with small stuff and providing information.
 - **Sarachi#2261** for ideas, verification and Wikimanagement.
-###### Translation:
+###### Wiki-Translation:
 - **im a book#5877** - Spanish
 - **Sarachi#2261** - German
