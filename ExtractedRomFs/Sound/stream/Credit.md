@@ -1,3 +1,5 @@
+# Songlist with Links
+## Hourly Music
 [00|12AM](https://youtu.be/ZZZY6tOI2G8)<br>
 [01|1AM](https://youtu.be/5jqX1jUniac)<br>
 [02|2AM](https://youtu.be/QL9_rPPyCMQ)<br>
@@ -23,17 +25,21 @@
 [22|10PM](https://youtu.be/YmrFaMvgA6I)<br>
 [23|11PM](https://youtu.be/6Bc4Q1Jjxm4)<br>
 [Snowing](https://open.spotify.com/track/4sAeqHsIx4QrWkpgPhe3Qt)
+
+## Buildings
 [Café](https://youtu.be/1hAwyif2pIY)<br>
 [Club](https://youtu.be/vJdh5cwLqac)<br>
 [Dreamhouse](https://youtu.be/jjprMvLQ4bM)<br>
 [Fortune Teller](https://youtu.be/48xDYSbxAYQ)<br>
+[Island](https://youtu.be/xJHVfLI5pLY)<br>
 [Nook Shops](https://youtu.be/eeeHnr5aykk)<br>
+[Redd's Theme](https://youtu.be/czYEipntnkI)<br>
 [Retail](https://youtu.be/RzxWRobX2jg?t=956)<br>
 [Shoe Shop](https://youtu.be/Ej_onDLqCPA)<br>
-[Symboltree/Credits](https://youtu.be/Yov8jrj-hC8)<br>
 [Tailor](https://youtu.be/FFS-MHJ92xQ)<br>
-[Title](https://youtu.be/vkd9RCbdCag)<br>
-[Island](https://youtu.be/xJHVfLI5pLY)<br>
 [Townhall](https://youtu.be/bxswzhe5xWY?t=294)<br>
+
+## Etc
 [Playerselect](https://www.youtube.com/watch?v=_eJ7AmK46Oc)<br>
-[Redd's Theme](https://youtu.be/czYEipntnkI)<br>
+[Symboltree/Credits](https://youtu.be/Yov8jrj-hC8)<br>
+[Titlescreen](https://youtu.be/vkd9RCbdCag)<br>
