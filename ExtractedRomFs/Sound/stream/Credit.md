@@ -38,6 +38,7 @@
 [Shoe Shop](https://youtu.be/Ej_onDLqCPA)<br>
 [Tailor](https://youtu.be/FFS-MHJ92xQ)<br>
 [Townhall](https://youtu.be/bxswzhe5xWY?t=294)<br>
+[Museum](https://youtu.be/TulnzktsGLE)
 
 ## Etc
 [Playerselect](https://www.youtube.com/watch?v=_eJ7AmK46Oc)<br>
