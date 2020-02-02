@@ -16,7 +16,6 @@
 - Resetti is disabled
 - Reworked Textures (Interior, Exterior, Items...)
 - Stores are now 24/7 open<br>
-- *~~Camera is slightly zoomed out for a better view~~* Will be re-implemented(?)
 
 [Detailed Changelog to be seen here.](CHANGELOG.md)
 
