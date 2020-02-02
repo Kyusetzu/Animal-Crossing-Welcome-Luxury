@@ -1,5 +1,5 @@
 ## Animal Crossing: New Leaf - Welcome Luxury
- Animal Crossing New Leaf: Welcome Luxury is a ROM-Hack based on ACNLWA.
+ Animal Crossing: New Leaf - Welcome Luxury is a ROM-Hack based on ACNLWA.
 
 ## Changes
 - Cyrus' costumisations are instantly done
@@ -25,3 +25,4 @@
 ###### Wiki-Translation:
 - **im a book#5877** - Spanish
 - **Sarachi#2261** - German
+- **Lil'Wixy#7989** & **ＴＲ4ＳＨ#7433** - French
