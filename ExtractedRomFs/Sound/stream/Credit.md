@@ -30,18 +30,21 @@
 [Café](https://youtu.be/1hAwyif2pIY)<br>
 [Club](https://youtu.be/vJdh5cwLqac)<br>
 [Dreamhouse](https://youtu.be/jjprMvLQ4bM)<br>
+[Florist](https://youtu.be/u4PnP2vqBRg)<br>
 [Fortune Teller](https://youtu.be/48xDYSbxAYQ)<br>
 [Island](https://youtu.be/xJHVfLI5pLY)<br>
+[Museum](https://youtu.be/TulnzktsGLE)<br>
 [Nook Shops](https://youtu.be/eeeHnr5aykk)<br>
 [Redd's Theme](https://youtu.be/czYEipntnkI)<br>
 [Retail](https://youtu.be/RzxWRobX2jg?t=956)<br>
 [Shoe Shop](https://youtu.be/Ej_onDLqCPA)<br>
 [Tailor](https://youtu.be/FFS-MHJ92xQ)<br>
 [Townhall](https://youtu.be/bxswzhe5xWY?t=294)<br>
-[Museum](https://youtu.be/TulnzktsGLE)
+[Train Station](https://youtu.be/0TfIVUbmF5w)<br>
 
 ## Etc
+[Chased by Bees](https://youtu.be/tvrGBIfwhkI)<br>
+[Payed Debt](https://youtu.be/chQP6Q5FO5s)<br>
 [Playerselect](https://www.youtube.com/watch?v=_eJ7AmK46Oc)<br>
 [Symboltree/Credits](https://youtu.be/Yov8jrj-hC8)<br>
 [Titlescreen](https://youtu.be/vkd9RCbdCag)<br>
-[Chased by Bees](https://youtu.be/tvrGBIfwhkI)<br>
