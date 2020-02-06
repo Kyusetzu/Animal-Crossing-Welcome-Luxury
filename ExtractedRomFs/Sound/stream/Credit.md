@@ -48,3 +48,5 @@
 [Playerselect](https://www.youtube.com/watch?v=_eJ7AmK46Oc)<br>
 [Symboltree/Credits](https://youtu.be/Yov8jrj-hC8)<br>
 [Titlescreen](https://youtu.be/vkd9RCbdCag)<br>
+[Train Entry](https://youtu.be/oNxx3nYgL40)<br>
+[Train Retire](https://youtu.be/-NgD24Ru7Kk)
