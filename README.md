@@ -2,7 +2,7 @@
  Animal Crossing: Welcome Luxury is a ROM-Hack based on ACNLWA.
 
 ## Changes
-- Cyrus' costumisations are instantly done
+- Cyrus' customisations are instantly done
 - Fish bite first try
 - Fish don't vanish when you run up to them
 - Flowers don't break by running over them

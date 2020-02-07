@@ -1,5 +1,13 @@
 # Changelog
 > Because all of you wanted a detailed changelog.
+## Pre-v0.0.6 - The Small Things
+- Added
+	- Added black bells
+	- Added goldapples
+	- Added more building songs + some jingles ([Credits](ExtractedRomFs/Sound/stream/Credit.md))
+	- New backgrounds
+	- New cursor
+	- New default font
 ## Pre-v0.0.596 - Snow Fix
 - Added
 	- Captions to the releases in the changelog file :)
