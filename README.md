@@ -21,6 +21,7 @@
 
 ## Thank you!
 - **Slattz#0674** for helping out with small stuff and providing information plus adding features with the [REditor](https://github.com/Slattz/ACNL_REditor/).
+- **Lukas#4444** for help with mod to code implementation.
 - **Sarachi#2261** for ideas, verification and Wikimanagement.
 ###### Wiki-Translation:
 - **im a book#5877** - Spanish
