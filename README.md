@@ -1,4 +1,4 @@
-# ![Pic](https://assets.gitlab-static.net/uploads/-/system/project/avatar/11357955/Logo_2.png?width=649) Animal Crossing: Welcome Luxury
+# ![Logo](https://assets.gitlab-static.net/uploads/-/system/project/avatar/11357955/Logo_2.png?width=649) Animal Crossing: Welcome Luxury
 
 Animal Crossing: Welcome Luxury is a ROM-Hack based on ACNLWA.
 
@@ -32,5 +32,6 @@ Animal Crossing: Welcome Luxury is a ROM-Hack based on ACNLWA.
 
 ###### Wiki-Translation:
 
-- **im a book#5877** - Spanish
-- **Sarachi#2261** - German
+- **German** || Kyusetzu#0861 & Sarachi#2261
+- **Spanish** || im a book#5877
+- **French** || Youssef#5154
