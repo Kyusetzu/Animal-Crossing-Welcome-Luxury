@@ -9,9 +9,9 @@ Animal Crossing: Welcome Luxury is a ROM-Hack based on ACNLWA.
 - Fish don't vanish when you run up to them
 - Flowers don't break
 - Flowers never wilt (except black roses)
-- Instant Cyrus customisations
+- Instant Cyrus customizations
 - Instant Mayor Permit
-- Mosquitos never bite
+- Mosquitoes never bite
 - New Dialog
 - New Font
 - New Music
@@ -20,7 +20,7 @@ Animal Crossing: Welcome Luxury is a ROM-Hack based on ACNLWA.
 - Resetti is disabled
 - Reworked Buildings
 - Reworked Items
-- Townfruit = price of foreign fruits
+- Town-fruit = price of foreign fruits
 
 [Detailed Changelog to be seen here.](CHANGELOG.md)
 
@@ -28,7 +28,7 @@ Animal Crossing: Welcome Luxury is a ROM-Hack based on ACNLWA.
 
 - **Slattz#0674** for helping out with small stuff and providing information plus adding features with the [REditor](https://github.com/Slattz/ACNL_REditor/).
 - **Lukas#4444** for help with mod to code implementation.
-- **Sarachi#2261** for ideas, verification and Wikimanagement.
+- **Sarachi#2261** for ideas, verification and Wiki-management.
 
 ###### Wiki-Translation:
 
