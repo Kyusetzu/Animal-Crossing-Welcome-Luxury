@@ -29,7 +29,8 @@ Animal Crossing: Welcome Luxury is a ROM-Hack based on ACNLWA.
 - **Slattz#0674** for helping out with small stuff and providing information plus adding features with the [REditor](https://github.com/Slattz/ACNL_REditor/).
 - **Lukas#4444** for help with mod to code implementation.
 - **Sarachi#2261** for ideas, verification and Wiki-management.
-- **Jason#9789** for Alpha as well as Beta Testing.
+- **Jason#9789** for Alpha as well as Beta testing.
+- **~Harsy~#7126** for providing wall & floor fixes.
 
 ###### Wiki-Translation:
 
