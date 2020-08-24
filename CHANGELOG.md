@@ -1,5 +1,99 @@
 # Changelog
 > Because all of you wanted a detailed changelog.
+## v1.0.0 - Welcome Luxury
+
+- Added
+	- You now can take your items to the island through the coolerbox!
+- Removed
+	- The stupid "Move In" or "Import Town" buttons since they won't work for ACWL
+- Changed
+<details class="spoiler">
+<summary>Snow Texture Rework</summary>
+
+- Rework Arch Balloon
+- Rework Arch Flower
+- Rework Art A
+- Rework Aurora
+- Rework BBS
+- Rework Bell Jpn
+- Rework Bell Wst
+- Rework Bench Jpn
+- Rework Bench Log
+- Rework Bench Pla
+- Rework Brick Bridge
+- Rework Café
+- Rework Campfire
+- Rework Campsite
+- Rework Drinking
+- Rework Excavator
+- Rework Fairytale Bridge
+- Rework Fairy Townhall
+- Rework Fairy Trainstation
+- Rework Fence
+- Rework Fireplug
+- Rework Flowerbed
+- Rework Flowerclock
+- Rework Fountrain
+- Rework Geysir
+- Rework Goddess
+- Rework Grobejungle
+- Rework Hammok
+- Rework Homecenter
+- Rework Iron Bridge
+- Rework Japan Clock
+- Rework Jpn Townhall
+- Rework Jpn Trainstation
+- Rework Lamp
+- Rework Lamp Globe
+- Rework Lamp jpn
+- Rework Lamp mdn
+- Rework Lamp Wst
+- Rework Landmark
+- Rework Lighthouse
+- Rework Modern Clock
+- Rework Modern Townhall
+- Rework Modern Trainstation
+- Rework Museum
+- Rework Normal Townhall
+- Rework Normal Trainstation
+- Rework Park Clock
+- Rework Photobox
+- Rework Pipe
+- Rework Post Office + Credits
+- Rework Pyramid
+- Rework Recycle
+- Rework Retrolamp
+- Rework Rice
+- Rework Rope Bridge
+- Rework Sandbox
+- Rework Screen
+- Rework Shoeshop
+- Rework Shop
+- Rework Sign
+- Rework Signboard
+- Rework Solar
+- Rework Sphinx
+- Rework Stone Bridge
+- Rework Supermarket
+- Rework Tailor
+- Rework Totem
+- Rework Trafficlight
+- Rework Train
+- Rework Trash
+- Rework Waiting
+- Rework Well
+- Rework Western Lamp
+- Rework Windmill
+- Rework Windturbine
+- Rework Wodden Bridge
+- Rework Zen Garden
+</details>
+
+- Fixed
+	- Train Jingles
+	- Wall & Floor Fix
+	- Dead Links in the [music credits file](https://gitlab.com/Kyusetzu/ACWL/-/blob/master/ExtractedRomFs/Sound/stream/Credit.md)
+
 ## Pre-v0.0.6 - The Small Things
 - Added
 	- Added black bells

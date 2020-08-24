@@ -1,28 +1,43 @@
-# ![Logo](https://assets.gitlab-static.net/uploads/-/system/project/avatar/11357955/Logo_2.png?width=649) Animal Crossing: Welcome Luxury
+# ![Logo](https://assets.gitlab-static.net/uploads/-/system/project/avatar/11357955/Logo_2.png) Animal Crossing: Welcome Luxury
 
 Animal Crossing: Welcome Luxury is a ROM-Hack based on ACNLWA.
 
 ## Changes
 
-- 24/7 Stores
+<details class="spoiler">
+<summary>Click here or find it out yourself!</summary>
 - Fish bite first try
 - Fish don't vanish when you run up to them
-- Flowers don't break
 - Flowers never wilt (except black roses)
+- Indestructable Flowers
 - Instant Cyrus customizations
 - Instant Mayor Permit
 - Mosquitoes never bite
-- New Dialog
 - New Font
 - New Music
 - No tripping
 - QR Machine is unlocked
 - Resetti is disabled
-- Reworked Buildings
-- Reworked Items
+- Reworked Textures
+- Stores are 24/7 open
+- Take items to the island through the coolerbox
 - Town-fruit = price of foreign fruits
 
 [Detailed Changelog to be seen here.](CHANGELOG.md)
+
+</details>
+
+## Get Started
+
+- Head over to the [Releases Page](https://gitlab.com/Kyusetzu/ACWL/-/releases) and read carefully what is written there!
+- **NOTE:** Please install game & update. (First the game then the update)
+  **NOTE 2:** Updating ACWL can delete your save.
+  Consider creating a backup of your save first.
+
+## In need of more infos?
+
+- Head over to the [Wiki](https://gitlab.com/Kyusetzu/ACWL/-/wikis/home)
+- Hop on to our [Discord](https://discord.gg/5BkdzCG)!
 
 ## Thank you!
 
