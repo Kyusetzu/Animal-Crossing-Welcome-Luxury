@@ -30,8 +30,8 @@ Animal Crossing: Welcome Luxury is a ROM-Hack based on ACNLWA.
 ## Get Started
 
 - Head over to the [Releases Page](https://gitlab.com/Kyusetzu/ACWL/-/releases) and read carefully what is written there!
-- **NOTE:** Please install game & update. (First the game then the update)
-  **NOTE 2:** Updating ACWL can delete your save.
+- **NOTE:** Please install game & update. (First the game then the update)<br>
+- **NOTE 2:** Updating ACWL can delete your save.
   Consider creating a backup of your save first.
 
 ## In need of more infos?
