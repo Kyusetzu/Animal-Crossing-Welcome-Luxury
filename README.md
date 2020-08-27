@@ -6,6 +6,7 @@ Animal Crossing: Welcome Luxury is a ROM-Hack based on ACNLWA.
 
 <details class="spoiler">
 <summary>Click here or find it out yourself!</summary>
+
 - Fish bite first try
 - Fish don't vanish when you run up to them
 - Flowers never wilt (except black roses)
