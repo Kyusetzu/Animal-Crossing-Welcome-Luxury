@@ -54,3 +54,4 @@ Animal Crossing: Welcome Luxury is a ROM-Hack based on ACNLWA.
 - **Spanish** || im a book#5877
 - **French** || Youssef#5154
 - **Portuguese** || AdSF#2943 & Davidfaisca7#8535
+- **Italian** || Fedecrash02#2418
