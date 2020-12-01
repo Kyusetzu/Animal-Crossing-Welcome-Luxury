@@ -1,5 +1,11 @@
 # Changelog
 > Because all of you wanted a detailed changelog.
+
+## v.1.0.06 - First Edits
+- Added
+	- Scarecrow PWP
+- Fixed
+	- "Victory Fanfare" volume fixed
 ## v1.0.0 - Welcome Luxury
 
 - Added

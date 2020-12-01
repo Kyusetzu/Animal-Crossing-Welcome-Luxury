@@ -2,6 +2,8 @@
 
 ## Hourly Music
 
+[ACWL 24H Circle OST](https://youtu.be/ARF6Y7UY9aM)<br>
+
 [00|12AM](https://youtu.be/ZZZY6tOI2G8) | Flovry - Still Waiting for Her<br>
 [01|01AM](https://youtu.be/5jqX1jUniac) | Jaomock - Hypnosis<br>
 [02|02AM](https://youtu.be/QL9_rPPyCMQ) | kudasai - dream of her<br>
@@ -26,10 +28,7 @@
 [21|09PM](https://youtu.be/IJqtjga7dQ8) | biosphere - lazy sunday afternoon<br>
 [22|10PM](https://youtu.be/YmrFaMvgA6I) | ØDYSSEE - MILANO<br>
 [23|11PM](https://youtu.be/6Bc4Q1Jjxm4) | equity slate - reflections<br>
-<br>
 [Snowing](https://open.spotify.com/track/4sAeqHsIx4QrWkpgPhe3Qt)<br>
-<br>
-[ACWL 24H Circle OST](https://youtu.be/ARF6Y7UY9aM)<br>
 
 ## Buildings
 
@@ -55,12 +54,12 @@
 [Townhall](https://youtu.be/bxswzhe5xWY?t=294)<br>
 [Train Station](https://youtu.be/0TfIVUbmF5w)<br>
 
-## Etc
+## Misc
 
 [Ceremony](https://youtu.be/QyUnuRUCLik)<br>
 [Chased by Bees](https://youtu.be/tvrGBIfwhkI)<br>
 [Fortune State](https://youtu.be/fkiniAFUofQ)<br>
-[Payed Debt](https://youtu.be/chQP6Q5FO5s)<br>
+[Payed Debt](https://youtu.be/kLWxyhIriZM)<br>
 [Playerselect](https://www.youtube.com/watch?v=_eJ7AmK46Oc)<br>
 [Symboltree/Credits](https://youtu.be/Yov8jrj-hC8)<br>
 [Titlescreen](https://youtu.be/vkd9RCbdCag)<br>
