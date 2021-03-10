@@ -1,7 +1,7 @@
 # Changelog
 > Because all of you wanted a detailed changelog.
 
-## v.1.1.29 - First Edits
+## v.1.1.33 - First Edits
 - Added
 	- Scarecrow PWP
 	- Gain Playcoins when buying fortune cookies!
