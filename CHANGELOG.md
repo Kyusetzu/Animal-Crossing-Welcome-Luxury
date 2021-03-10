@@ -1,11 +1,15 @@
 # Changelog
 > Because all of you wanted a detailed changelog.
 
-## v.1.0.06 - First Edits
+## Upcoming: v.1.0.X - First Edits
 - Added
 	- Scarecrow PWP
 - Fixed
 	- "Victory Fanfare" volume fixed
+	- The intro dialogue, since it was heavily bugged, however that happend. (PlsForTheLoveOfGodWork)
+    	- Thanks to Jason for keeping me up to date about this stuff!
+- Removed
+    - First letter from turtle
 ## v1.0.0 - Welcome Luxury
 
 - Added
