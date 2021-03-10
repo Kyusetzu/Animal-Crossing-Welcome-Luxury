@@ -6,6 +6,7 @@
 	- Scarecrow PWP
 	- Gain Playcoins when buying fortune cookies!
     	- This is untested when you have 0 playcoins, but come on, you are able to get at least 2, do you? :D
+  	- No limit in shampoodle
 - Fixed
 	- "Victory Fanfare" volume fixed
 	- The intro dialogue, since it was heavily bugged, however that happend. (PlsForTheLoveOfGodWork)
