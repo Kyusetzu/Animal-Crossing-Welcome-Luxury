@@ -1,7 +1,7 @@
 # Changelog
 > Because all of you wanted a detailed changelog.
 
-## Upcoming: v.1.0.X - First Edits
+## v.1.1.29 - First Edits
 - Added
 	- Scarecrow PWP
 	- Gain Playcoins when buying fortune cookies!
@@ -13,6 +13,7 @@
     	- Thanks to Jason for keeping me up to date about this stuff!
 - Removed
     - First letter from turtle
+    - First Bulletin Board notice 
 ## v1.0.0 - Welcome Luxury
 
 - Added
