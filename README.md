@@ -10,6 +10,7 @@ Animal Crossing: Welcome Luxury is a ROM-Hack based on ACNLWA.
 - Fish bite first try
 - Fish don't vanish when you run up to them
 - Flowers never wilt (except black roses)
+- Gain Playcoins when buying Fortunecookies
 - Indestructable Flowers
 - Instant Cyrus customizations
 - Instant Mayor Permit
@@ -23,6 +24,7 @@ Animal Crossing: Welcome Luxury is a ROM-Hack based on ACNLWA.
 - Stores are 24/7 open
 - Take items to the island through the coolerbox
 - Town-fruit = price of foreign fruits
+- Unlimited visits at Shampoodle
 
 [Detailed Changelog to be seen here.](CHANGELOG.md)
 
