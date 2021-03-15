@@ -1,7 +1,9 @@
 # Changelog
 > Because all of you wanted a detailed changelog.
 
-## v.1.1.33 - First Edits
+## v1.1.33L - Patching things up
+- Hi! Thanks for checking in on this lil changelog. With this little release I've just created a LayeredFS release for the consoles. It includes Vapecord and is quite big to ensure every version of Animal Crossing is covered. The biggest differences to the ROM version would be the titlescreen things like the logo and metadata. That's basically all I've got to say for this changelog :D Enjoy!
+## v1.1.33 - First Edits
 - Added
 	- Scarecrow PWP
 	- Gain Playcoins when buying fortune cookies!
