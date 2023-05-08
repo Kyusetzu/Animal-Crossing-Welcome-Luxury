@@ -1,60 +1,68 @@
 # ![Logo](https://assets.gitlab-static.net/uploads/-/system/project/avatar/11357955/Logo_2.png) Animal Crossing: Welcome Luxury
 
-Animal Crossing: Welcome Luxury is a ROM-Hack based on ACNLWA.
+``Animal Crossing: Welcome Luxury`` is a ROM-Hack based on ``Animal Crossing: New Leaf Welcome Amiibo`` that introduces various changes to the gameplay experience.
 
 ## Changes
 
 <details class="spoiler">
-<summary>Click here or find it out yourself!</summary>
-
-- Fish bite first try
-- Fish don't vanish when you run up to them
+<summary>Click here to see the full list of changes!</summary>
+- Fish now bite on the first try
+- Fish do not disappear when you run up to them
 - Flowers never wilt (except black roses)
-- Gain Playcoins when buying Fortunecookies
-- Indestructable Flowers
-- Instant Cyrus customizations
-- Instant Mayor Permit
+- Playcoins are gained when buying fortunecookies
+- Flowers are now indestructible
+- Cyrus customizations are now instant
+- Mayor permit is now instant
 - Mosquitoes never bite
-- New Font
-- New Music
+- New font
+- New music
 - No tripping
-- QR Machine is unlocked
+- QR machine is unlocked
 - Resetti is disabled
-- Reworked Textures
-- Stores are 24/7 open
-- Take items to the island through the coolerbox
-- Town-fruit = price of foreign fruits
-- Unlimited visits at Shampoodle
+- Textures have been reworked
+- Stores are open 24/7
+- Items can be taken to the island through the coolerbox
+- The price of foreign fruits is now the same as the town-fruit
+- There are unlimited visits to Shampoodle
 
-[Detailed Changelog to be seen here.](CHANGELOG.md)
+[For a detailed changelog, click here.](CHANGELOG.md)
 
 </details>
 
-## Get Started
+## Download
 
-- Head over to the [Releases Page](https://gitlab.com/Kyusetzu/ACWL/-/releases) and read carefully what is written there!
-- **NOTE:** Please install game & update. (First the game then the update)<br>
-- **NOTE 2:** Updating ACWL can delete your save.
-  Consider creating a backup of your save first.
+You can download ``Animal Crossing: Welcome Luxury`` from the following sources:
 
-## In need of more infos?
+- Go to the [Releases Page](https://gitlab.com/Kyusetzu/ACWL/-/releases) and carefully read the information provided there.
 
-- Head over to the [Wiki](https://gitlab.com/Kyusetzu/ACWL/-/wikis/home)
-- Hop on to our [Discord](https://discord.gg/5BkdzCG)!
+or 
 
-## Thank you!
+- Go to the [hShop Page](https://hshop.erista.me/search/results?q=Welcome+Luxury&qt=Text&lgy=false) and download both files.
 
-- **Slattz#0674** for helping out with small stuff and providing information plus adding features with the [REditor](https://github.com/Slattz/ACNL_REditor/).
-- **Lukas#4444** for help with mod to code implementation.
-- **Sarachi#2261** for ideas, verification and Wiki-management.
-- **Jason#9789** for Alpha as well as Beta testing.
-- **~Harsy~#7126** for providing wall & floor fixes.
+***Please be aware that updating ``Animal Crossing: Welcome Luxury`` may delete your saved data, so it's a good idea to create a backup before updating.***
 
-###### Wiki-Translation:
+## More Information
 
-- **German** || Kyusetzu#0861 & Sarachi#2261
-- **Spanish** || im a book#5877
-- **French** || Youssef#5154
-- **Portuguese** || AdSF#2943 & Davidfaisca7#8535
-- **Italian** || Fedecrash02#2418
-- **Dutch** || nuisance®#0245
+For additional information on ``Animal Crossing: Welcome Luxury``, please visit:
+
+- The [Wiki](https://gitlab.com/Kyusetzu/ACWL/-/wikis/home)
+- Our [Discord channel](https://discord.gg/yeHNSGyM8F)
+
+## Acknowledgments
+
+Animal Crossing: Welcome Luxury was made possible thanks to the contributions and support of the following individuals:
+
+- Slattz#0674 for help with small tasks, providing information, and adding features with the REditor.
+- Lukas#4444 for assistance with mod to code implementation.
+- Sarachi#2261 for ideas, verification, and wiki-management.
+- Jason#9789 for alpha and beta testing.
+- ~Harsy~#7126 for providing wall and floor fixes.
+
+###### Wiki Translation:
+
+- German || Kyusetzu#0861 & Sarachi#2261
+- Spanish || im a book#5877
+- French || Youssef#5154
+- Portuguese || AdSF#2943 & Davidfaisca7#8535
+- Italian || Fedecrash02#2418
+- Dutch || nuisance®#0245
