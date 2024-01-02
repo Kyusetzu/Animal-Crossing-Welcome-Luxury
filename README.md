@@ -45,14 +45,3 @@ or
 For additional information or help with problems:
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://www.discord.gg/yeHNSGyM8F)
-
-## Acknowledgments
-
-Animal Crossing: Welcome Luxury was made possible thanks to the contributions and support of the following individuals:
-
-- ``Slattz#0674`` for help with small tasks, providing information, and adding features with the REditor.
-- ``Sarachi#2261`` for ideas & verification
-- ``Jason#9789`` for alpha and beta testing.
-- ``~Harsy~#7126`` for providing wall and floor fixes.
-
-*These tags are outdates.
