@@ -1,6 +1,8 @@
-# ![Logo](https://gitlab.com/uploads/-/system/project/avatar/11357955/Logo_2.png) ![Badge](https://img.shields.io/badge/Animal%20Crossing-Welcome%20Luxury-FFAA00?style=for-the-badge&logo={LOGO-NAME}&logoColor=white)
+# ![Logo](https://i.imgur.com/1KojSvjs.png) ![Badge](https://img.shields.io/badge/Animal%20Crossing-Welcome%20Luxury-FFAA00?style=for-the-badge&logo={LOGO-NAME}&logoColor=white)
 
 ``Animal Crossing: Welcome Luxury`` is a ROM-Hack made by Kyusetzu and based on the Welcome Amiibo release with new music, QOL features and new textures.
+
+NOTE: This project is not affiliated with, endorsed or approved by Nintendo or the Animal Crossing franchise in any way. It is distributed in the hope that it will be useful, but **WITHOUT ANY WARRANTY**; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
 ## Changes
 
@@ -30,7 +32,7 @@
 
 You can download ``Animal Crossing: Welcome Luxury`` from the following sources:
 
-- Go to the [Releases Page](https://gitlab.com/Kyusetzu/ACWL/-/releases) and carefully read the information provided there.
+- Go to the [Releases Page](https://github.com/Kyusetzu/Animal-Crossing-Welcome-Luxury/releases) and carefully read the information provided there.
 
 or 
 
