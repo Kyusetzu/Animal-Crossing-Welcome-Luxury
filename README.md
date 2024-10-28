@@ -1,49 +1,58 @@
 # ![Logo](https://i.imgur.com/1KojSvjs.png) ![Badge](https://img.shields.io/badge/Animal%20Crossing-Welcome%20Luxury-FFAA00?style=for-the-badge&logo={LOGO-NAME}&logoColor=white)
 
-``Animal Crossing: Welcome Luxury`` is a ROM-Hack made by Kyusetzu and based on the Welcome Amiibo release with new music, QOL features and new textures.
+## Animal Crossing: Welcome Luxury
 
-NOTE: This project is not affiliated with, endorsed or approved by Nintendo or the Animal Crossing franchise in any way. It is distributed in the hope that it will be useful, but **WITHOUT ANY WARRANTY**; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+**Animal Crossing: Welcome Luxury** is a ROM hack created by Kyusetzu, based on the *Welcome Amiibo* edition. It introduces new music, quality-of-life improvements, and updated textures to enhance the gaming experience.
 
-## Changes
+> **Disclaimer:** This project is not affiliated with, endorsed, or approved by Nintendo or the Animal Crossing franchise. It is shared in the hope that it will be useful, but comes **WITHOUT ANY WARRANTY**, including the implied warranties of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
-<details class="spoiler">
-<summary>Click here to see the full list of changes!</summary>
-- Fish now bite on the first try
-- Fish do not disappear when you run up to them
-- Flowers never wilt (except black roses)
-- Playcoins are gained when buying fortunecookies
-- Flowers are now indestructible
-- Cyrus customizations are now instant
-- Mayor permit is now instant
-- Mosquitoes never bite
-- New font
-- New music
-- No tripping
-- QR machine is unlocked
-- Resetti is disabled
-- Textures have been reworked
-- Stores are open 24/7
-- The price of foreign fruits is now the same as the town-fruit
-- There are unlimited visits to Shampoodle
+## Key Features
 
+<details>
+  <summary>Click to view the full list of changes</summary>
+
+### Environment and Nature Modifications
+- **No grass decay**
+- **Flowers never wilt** (except black roses)
+- **Flowers are indestructible** (except black roses)
+- **Mosquitos no longer bite**
+- **Fish always bite on the first try**
+- **Fish don’t disappear when running up to them**
+
+### Player and Character Interactions
+- **Disabled Resetti when quitting without saving**
+  - Removes Isabelle's message about quitting without saving
+- **No tripping**
+- **No Shovel Knockback**
+- **Never Bedhair again**
+
+### Customization and Design
+- **Edit all patterns** (even scanned ones)
+- **QR Code is instantly unlocked**
+  - New save still requires town tree planting and saving ability
+- **Instant 100% mayor progress**
+  - Still requires upgrading tent to house
+- **Cyrus customizations are instant**
+- **New font and music**
+- **Reworked textures**
+
+### Items and Economy
+- **No limit on the number of items on the island**
+- **Buy price = sell price for items**
+- **Town fruit prices are equal to foreign fruits**
+- **PlayCoins are earned when buying fortune cookies**
+
+### Gameplay Mechanics and Accessibility
+- **Access all tours on the island**
+- **Stores are open 24/7**
 </details>
 
 ## Download
 
-You can download ``Animal Crossing: Welcome Luxury`` from the following sources:
+You can download **Animal Crossing: Welcome Luxury** from the following sources:
 
-- Go to the [Releases Page](https://github.com/Kyusetzu/Animal-Crossing-Welcome-Luxury/releases) and carefully read the information provided there.
+- Join our [Discord](https://www.discord.gg/yeHNSGyM8F) for the latest releases and updates: ![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+- Visit the [hShop Page](https://hshop.erista.me/search/results?q=Welcome+Luxury&qt=Text&lgy=false) to download both files.
+  - *Note:* The hShop may not always have the latest version.
 
-or 
-
-- Go to the [hShop Page](https://hshop.erista.me/search/results?q=Welcome+Luxury&qt=Text&lgy=false) and download both files.
-
-(Please note that the hShop may be a bit behind on releases.)
-
-***Please be aware that updating ``Animal Crossing: Welcome Luxury`` may delete your saved data, so it's a good idea to create a backup before updating.***
-
-## More Information
-
-For additional information or help with problems:
-
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://www.discord.gg/yeHNSGyM8F)
+> **Important:** Updating **Animal Crossing: Welcome Luxury** may erase your saved data. Make sure to back up your save before updating.
