@@ -1,10 +1,15 @@
-# ![Logo](https://i.imgur.com/1KojSvjs.png) ![Badge](https://img.shields.io/badge/Animal%20Crossing-Welcome%20Luxury-FFAA00?style=for-the-badge&logo={LOGO-NAME}&logoColor=white)
+<center>
 
-## Animal Crossing: Welcome Luxury
+# ![Badge](https://img.shields.io/badge/Animal%20Crossing-Welcome%20Luxury-FFAA00?style=for-the-badge&logo={LOGO-NAME}&logoColor=white)
+
+<img src="https://i.imgur.com/yQspQPs.png)" width="500" height="500">
+
+</center>
 
 **Animal Crossing: Welcome Luxury** is a ROM hack created by Kyusetzu, based on the *Welcome Amiibo* edition. It introduces new music, quality-of-life improvements, and updated textures to enhance the gaming experience.
 
-> **Disclaimer:** This project is not affiliated with, endorsed, or approved by Nintendo or the Animal Crossing franchise. It is shared in the hope that it will be useful, but comes **WITHOUT ANY WARRANTY**, including the implied warranties of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+> **Disclaimer:** This project is not affiliated with, endorsed, or approved by Nintendo or the Animal Crossing franchise.
+It is shared in the hope that it will be useful, but comes **WITHOUT ANY WARRANTY**, including the implied warranties of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
 ## Key Features
 
@@ -51,8 +56,9 @@
 
 You can download **Animal Crossing: Welcome Luxury** from the following sources:
 
-- Join our [Discord](https://www.discord.gg/yeHNSGyM8F) for the latest releases and updates: ![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+- Join our [Discord](https://www.discord.gg/yeHNSGyM8F) for the latest releases and updates:
+  - ![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 - Visit the [hShop Page](https://hshop.erista.me/search/results?q=Welcome+Luxury&qt=Text&lgy=false) to download both files.
   - *Note:* The hShop may not always have the latest version.
 
-> **Important:** Updating **Animal Crossing: Welcome Luxury** may erase your saved data. Make sure to back up your save before updating.
+> **Important: Updating Animal Crossing: Welcome Luxury** may erase your saved data. Make sure to back up your save before updating.
